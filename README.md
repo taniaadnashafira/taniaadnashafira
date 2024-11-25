@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tania adna shafira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tania adna shafira" height="30" width="40" /></a>
-<a href="https://fb.com/tania safira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tania safira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tania-adna-shafira-77b70b332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tania adna shafira" height="30" width="40" /></a>
+<a href="https://fb.com/tania.safira.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tania safira" height="30" width="40" /></a>
 <a href="https://instagram.com/llvtansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="llvtansh" height="30" width="40" /></a>
-<a href="https://medium.com/@taniaadnashafira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taniaadnashafira" height="30" width="40" /></a>
+<a href="https://medium.com/@taniashafiraadna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@taniaadnashafira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
